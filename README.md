@@ -30,12 +30,14 @@ python3 AseReport.py
 ```
 Don't forget to give me a star
 ••━━━━━━━━━━━━••
+
 Action steps :-
 1 - Put the Telegram token software interface in the field 
 2 - Put your ID on
 3 - Enter your Telegram channel username without @
 4 - Enter the ID of the channel 
 5 - It works.! 
+6 - To exit press CTRL + Z
 ••━━━━━━━━━━━━••
 ![PicsArt_06-07-10 40 14](https://github.com/PRIVATE001/Bot-Report/assets/155662747/8e5cdf83-ed86-4a91-9842-2f2ec6c5fd52)
 
