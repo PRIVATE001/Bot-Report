@@ -19,6 +19,7 @@ pip install telebot
 pip install requests
 pip install random
 pip install time
+pip install user_agent
 ```
 To copy the repository and run
 
