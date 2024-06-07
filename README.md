@@ -28,3 +28,6 @@ cd Bot-Report
 python3 AseReport.py
 ```
 Don't forget to give me a star
+
+![IMG_20240606_170835](https://github.com/PRIVATE001/Bot-Report/assets/155662747/9a74ee4a-a1d6-4aa6-9a6a-4bf8270cfa8c)
+
